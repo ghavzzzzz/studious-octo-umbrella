@@ -1,0 +1,54 @@
+body
+{
+
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+
+    display: inline;
+}
+.heading button{
+
+    float: right;
+    border: 5px ridge rgb(100, 0, 0);
+}
+#footer{
+
+    color: rgb(0, 114, 63);
+    line-height: 2;
+    background-color: rgb(231, 255, 207);
+    width: 50%;
+    border-radius: 20px;
+}
+.modal-dialog{
+    
+    width: 70%;
+}
+.modal-body{
+
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+    font-size:35px;
+}
+canvas{
+
+    border: 3px solid wheat;
+    border-radius: 20px;
+    box-shadow: 3px 5px 5px whitesmoke;
+}
+h5{
+
+color:midnightblue;
+font-size: 20;
+background-color: lightpink;
+line-height: 2;
+margin: 0px;
+}
+    
